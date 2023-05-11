@@ -1,0 +1,13 @@
+html,
+body {
+    background-color: rgb(236, 228, 228);
+    color: rgb(40, 132, 213);
+}
+
+h1 {
+    font-size: 100%
+}
+
+button {
+    width: 30px;
+}
